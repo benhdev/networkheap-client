@@ -3,7 +3,7 @@
     "type": "library",
     "autoload": {
         "psr-4": {
-            "Networkheap\\Client\\": "src/"
+            "Networkheap\\": "src/"
         }
     },
     "authors": [
