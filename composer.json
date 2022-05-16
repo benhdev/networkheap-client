@@ -1,0 +1,16 @@
+{
+    "name": "networkheap/client",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Networkheap\\Client\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "benhdev",
+            "email": "me@benhirst.co.uk"
+        }
+    ],
+    "require": {}
+}
